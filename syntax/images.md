@@ -25,10 +25,10 @@ Sélectionne les images valides:
 Le texte alternatif et le titre sont optionnels.
 
 Ce qui est juste parmis les lignes suivantes: ```![Funny cat](http://cats.ru/funny.png "Share this")```
-- [x] if the url is 404, "Funny cat" will be displayed
-- [ ] exclamation mark can be omitted in this case
-- [ ] if the url is 404, "Share this" will be displayed
-- [x] on mouse over the image "Share this" will be displayed
+- [x] Si l'url est 404, "Funny cat" sera affiché
+- [ ] Le point d'exclamation peut être ommis dans ce cas
+- [ ] Si l'url est 404, "Share this" sera affiché
+- [x] Au passage de la souris sur l'image "Share this" sera affiché
 
 > Comme les liens, les images peuvent avoir 3 parties: un texte alternatif, un lien et un titre. Un point d'exclamation est nécessaire.
 
